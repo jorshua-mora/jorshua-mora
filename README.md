@@ -33,4 +33,4 @@
 ---
 
 ### 🚀 Mis Proyectos Destacados
-*(Aquí colocaremos los enlaces cuando subamos tus carpetas)*
+- 🏎️ **[Robot Autónomo — WRO Futuros Ingenieros](https://github.com/jorshua-mora/wro-robot-autonomo)** — Arquitectura Maestro-Esclavo en C++ (Arduino / PlatformIO) comunicada por I2C.
